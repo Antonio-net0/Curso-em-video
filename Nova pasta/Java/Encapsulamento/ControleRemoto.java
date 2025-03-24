@@ -4,7 +4,7 @@
             private int volume;
             private boolean ligado;
             private boolean tocando;
-
+            
             private int getVolume() {
                 return volume;
             }
